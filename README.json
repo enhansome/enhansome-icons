@@ -1,0 +1,60 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cryptocurrency Icons",
+          "description": "over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-08-19T15:29:55Z",
+            "owner": "spothq",
+            "repo": "cryptocurrency-icons",
+            "stars": 2747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CMC Cryptocurrency Icons",
+          "description": "all the cryptocurrency icons available on coinmarketcap.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-05-29T20:26:49Z",
+            "owner": "ErikThiart",
+            "repo": "cryptocurrency-icons",
+            "stars": 251
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin-Icons",
+          "description": "Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-04-22T11:03:33Z",
+            "owner": "BitcoinDesign",
+            "repo": "Bitcoin-Icons",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "Merchants"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T12:04:55.679Z",
+    "original_repository": "vkarampinis/awesome-icons",
+    "original_repository_sha": "d6610309f274983d59e83784942ddffeaf17a1da",
+    "enhanced_repository": "enhansome/enhansome-icons",
+    "enhanced_repository_description": null,
+    "title": "Awesome Web Icons with stars"
+  }
+}
