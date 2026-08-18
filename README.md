@@ -2,7 +2,7 @@
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 496,775 | 🐛 100 | 📅 2026-06-30 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 497,189 | 🐛 104 | 📅 2026-06-30 list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -22,7 +22,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 * [iconmonstr](https://iconmonstr.com/) - Discover over 3000  free simple icons in varius collections.
 * [TheNounProject](https://thenounproject.com/) - Search over 150,000 icons designed by creators from arround the world.
-* [svg-icon](https://github.com/leungwensen/svg-icon) ⭐ 1,092 | 🐛 21 | 🌐 JavaScript | 📅 2022-07-09 - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
+* [svg-icon](https://github.com/leungwensen/svg-icon) ⭐ 1,091 | 🐛 21 | 🌐 JavaScript | 📅 2022-07-09 - An ultimate svg icons collection done right, with over 4,000 SVG icons out of the box.
 * [Icons8](https://icons8.com/icons) - 1,500,000+ free icons in over 130 styles including iOS 17 Outlined, Fluency, and Glyph Neue. SVG and PNG.
 * [flaticon](https://www.flaticon.com/) - 1,468,000 vector icons grouped in 30,310 packs.
 * [Streamline](https://streamlinehq.com/) - 100,000 icons, illustrations and emoji for all your projects.
@@ -49,9 +49,9 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 <!--lint disable awesome-list-item-->
 
-* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 21,401 | 🐛 111 | 🌐 JavaScript | 📅 2026-08-10 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 21,407 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-17 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,379 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
-* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,289 | 🐛 1,097 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
+* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,287 | 🐛 1,097 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
 * [Evil Icons](https://github.com/evil-icons/evil-icons) ⭐ 5,017 | 🐛 26 | 🌐 JavaScript | 📅 2021-10-19 - Free ‘plug and play’ set of SVG icons designed specifically for web projects
 * [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,307 | 🐛 47 | 📅 2026-06-30 - Swap Font Awesome for modern line icons in one line of code.
 * [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 419 | 🐛 23 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
@@ -126,4 +126,4 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
