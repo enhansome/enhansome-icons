@@ -1,7 +1,118 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tabler Icons",
+          "description": "A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243546335,
+            "language": "JavaScript",
+            "last_commit": "2026-08-17T12:38:29Z",
+            "owner": "tabler",
+            "repo": "tabler-icons",
+            "stars": 21422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperTinyIcons",
+          "description": "Miniscule SVG versions of website and app logos, under 1KB each.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88214511,
+            "language": "Python",
+            "last_commit": "2026-05-18T06:50:14Z",
+            "owner": "edent",
+            "repo": "SuperTinyIcons",
+            "stars": 15379
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Design Icons",
+          "description": "6200+ Material Design Icons from the Community",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21314224,
+            "language": null,
+            "last_commit": "2025-01-20T01:57:40Z",
+            "owner": "Templarian",
+            "repo": "MaterialDesign",
+            "stars": 11286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evil Icons",
+          "description": "Free ‘plug and play’ set of SVG icons designed specifically for web projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25975629,
+            "language": "JavaScript",
+            "last_commit": "2021-10-19T14:41:11Z",
+            "owner": "evil-icons",
+            "repo": "evil-icons",
+            "stars": 5017
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Icons8 Line Awesome",
+          "description": "Swap Font Awesome for modern line icons in one line of code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82809389,
+            "language": null,
+            "last_commit": "2026-06-30T17:26:16Z",
+            "owner": "icons8",
+            "repo": "line-awesome",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akar Icons",
+          "description": "Perfectly rounded icon library made for designers and developers as React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 306119910,
+            "language": "JavaScript",
+            "last_commit": "2024-03-21T22:36:24Z",
+            "owner": "artcoholic",
+            "repo": "akar-icons",
+            "stars": 419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DevUI Icons, by Huawei Cloud",
+          "description": "DevUI font icons.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191514300,
+            "language": "HTML",
+            "last_commit": "2024-05-22T03:20:04Z",
+            "owner": "DevCloudFE",
+            "repo": "devui-icons",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "Generic"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +121,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 91978995,
             "language": "JavaScript",
             "last_commit": "2024-08-19T15:29:55Z",
             "owner": "spothq",
@@ -24,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 130998864,
             "language": "PHP",
             "last_commit": "2025-05-29T20:26:49Z",
             "owner": "ErikThiart",
@@ -38,6 +151,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 306581433,
             "language": "JavaScript",
             "last_commit": "2026-04-22T11:03:33Z",
             "owner": "BitcoinDesign",
@@ -50,8 +164,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T11:46:30.508Z",
+    "last_updated": "2026-08-19T11:45:49.284Z",
     "original_repository": "vkarampinis/awesome-icons",
+    "original_repository_id": 50588965,
     "original_repository_sha": "d6610309f274983d59e83784942ddffeaf17a1da",
     "enhanced_repository": "enhansome/enhansome-icons",
     "enhanced_repository_description": null,
