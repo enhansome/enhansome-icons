@@ -12,10 +12,10 @@
             "archived": false,
             "id": 243546335,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T12:38:29Z",
+            "last_commit": "2026-08-19T21:56:33Z",
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21422
+            "stars": 21434
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-05-18T06:50:14Z",
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15379
+            "stars": 15378
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2025-01-20T01:57:40Z",
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11286
+            "stars": 11289
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2021-10-19T14:41:11Z",
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5017
+            "stars": 5016
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-08-19T15:29:55Z",
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2747
+            "stars": 2746
           }
         },
         {
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:33:17.139Z",
+    "last_updated": "2026-08-20T11:48:28.738Z",
     "original_repository": "vkarampinis/awesome-icons",
     "original_repository_id": 50588965,
     "original_repository_sha": "d6610309f274983d59e83784942ddffeaf17a1da",
