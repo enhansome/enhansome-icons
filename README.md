@@ -2,7 +2,7 @@
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,029 | 🐛 105 | 📅 2026-08-18 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 498,470 | 🐛 105 | 📅 2026-08-18 list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -49,9 +49,9 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 <!--lint disable awesome-list-item-->
 
-* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 21,434 | 🐛 112 | 🌐 JavaScript | 📅 2026-08-19 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 21,457 | 🐛 111 | 🌐 JavaScript | 📅 2026-08-19 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,378 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
-* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,289 | 🐛 1,098 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
+* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,293 | 🐛 1,104 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
 * [Evil Icons](https://github.com/evil-icons/evil-icons) ⭐ 5,016 | 🐛 26 | 🌐 JavaScript | 📅 2021-10-19 - Free ‘plug and play’ set of SVG icons designed specifically for web projects
 * [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,307 | 🐛 47 | 📅 2026-06-30 - Swap Font Awesome for modern line icons in one line of code.
 * [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 419 | 🐛 23 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
@@ -106,7 +106,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Merchants
 
-* [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) ⭐ 2,746 | 🐛 101 | 🌐 JavaScript | 📅 2024-08-19 - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+* [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) ⭐ 2,748 | 🐛 101 | 🌐 JavaScript | 📅 2024-08-19 - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 * [CMC Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons) ⭐ 251 | 🐛 5 | 🌐 PHP | 📅 2025-05-29 - all the cryptocurrency icons available on coinmarketcap.
 * [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) ⭐ 124 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-22 - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 * [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
@@ -126,4 +126,4 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
