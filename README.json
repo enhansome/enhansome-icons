@@ -5,6 +5,21 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Heroicons",
+          "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 242754476,
+            "language": "JavaScript",
+            "last_commit": "2026-05-12T13:51:18Z",
+            "owner": "tailwindlabs",
+            "repo": "heroicons",
+            "stars": 23758
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Tabler Icons",
           "description": "A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
           "children": [],
@@ -15,7 +30,7 @@
             "last_commit": "2026-08-19T21:56:33Z",
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21488
+            "stars": 21490
           }
         },
         {
@@ -164,7 +179,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:48:26.399Z",
+    "last_updated": "2026-08-24T14:09:16.081Z",
     "original_repository": "vkarampinis/awesome-icons",
     "original_repository_id": 50588965,
     "original_repository_sha": "d6610309f274983d59e83784942ddffeaf17a1da",
