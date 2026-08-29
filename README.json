@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+            "homepage": "https://heroicons.com",
             "id": 242754476,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T13:51:18Z",
+            "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23768
+            "stars": 23772,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -26,12 +31,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+            "homepage": "https://tabler.io/icons",
             "id": 243546335,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T22:21:55Z",
+            "open_issues": 108,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21524
+            "stars": 21528,
+            "topics": [
+              "bootstrap-icons",
+              "components",
+              "css",
+              "icon",
+              "icon-pack",
+              "icons",
+              "icons-pack",
+              "iconset",
+              "quality-svg-icons",
+              "react",
+              "svelte",
+              "svg",
+              "svg-icons",
+              "tabler-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -42,12 +67,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+            "homepage": "https://edent.github.io/SuperTinyIcons/",
             "id": 88214511,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-18T06:50:14Z",
+            "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15378
+            "stars": 15380,
+            "topics": [
+              "hacktoberfest",
+              "logo",
+              "social-media",
+              "svg",
+              "svg-icons",
+              "tiny-social-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -58,12 +95,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "✒7000+ Material Design Icons from the Community",
+            "homepage": "https://materialdesignicons.com",
             "id": 21314224,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
+            "open_issues": 1111,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11299
+            "stars": 11299,
+            "topics": [
+              "android",
+              "bootstrap",
+              "donations",
+              "google-material",
+              "icons",
+              "material-design",
+              "svg",
+              "webfonts"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -74,12 +125,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple and clean SVG icon pack with the code to support Rails, Sprockets, Node.js, Gulp, Grunt and CDN",
+            "homepage": "http://evil-icons.io",
             "id": 25975629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-10-19T14:41:11Z",
+            "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5016
+            "stars": 5016,
+            "topics": [
+              "evil-icons",
+              "icons",
+              "javascript",
+              "ruby",
+              "svg",
+              "svg-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -90,12 +153,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replace Font Awesome with modern line icons",
+            "homepage": "https://icons8.com/line-awesome",
             "id": 82809389,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-06-30T17:26:16Z",
+            "open_issues": 47,
             "owner": "icons8",
             "repo": "line-awesome",
-            "stars": 1307
+            "stars": 1307,
+            "topics": [
+              "icon-pack",
+              "icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -106,12 +177,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Akar icons library as React components.",
+            "homepage": "https://akaricons.com",
             "id": 306119910,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-21T22:36:24Z",
+            "open_issues": 23,
             "owner": "artcoholic",
             "repo": "akar-icons",
-            "stars": 420
+            "stars": 420,
+            "topics": [
+              "icon-pack",
+              "icons",
+              "react",
+              "reactjs",
+              "svg",
+              "svg-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -122,12 +205,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DevUI font icons",
+            "homepage": null,
             "id": 191514300,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2024-05-22T03:20:04Z",
+            "open_issues": 1,
             "owner": "DevCloudFE",
             "repo": "devui-icons",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "devui-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         }
@@ -144,12 +234,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of icons for all the main cryptocurrencies and altcoins, in a range of styles and sizes.",
+            "homepage": "http://cryptoicons.co",
             "id": 91978995,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-08-19T15:29:55Z",
+            "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2749
+            "stars": 2749,
+            "topics": [
+              "altcoin",
+              "altcoins",
+              "bitcoin",
+              "cc0",
+              "coin",
+              "crypto",
+              "cryptocurrencies",
+              "cryptocurrency",
+              "cryptocurrency-icons",
+              "cryptocurrency-ticker",
+              "erc20",
+              "erc20-tokens",
+              "erc721",
+              "ethereum",
+              "flat-icons",
+              "icon",
+              "icon-pack",
+              "icon-set",
+              "icons",
+              "svg-icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -160,12 +276,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "All the cryptocurrency icons available on coinmarketcap.com",
+            "homepage": "https://cryptocurrencyliveprices.com/",
             "id": 130998864,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2025-05-29T20:26:49Z",
+            "open_issues": 5,
             "owner": "ErikThiart",
             "repo": "cryptocurrency-icons",
-            "stars": 251
+            "stars": 251,
+            "topics": [
+              "altcoins",
+              "bitcoin",
+              "blockchain",
+              "cryptocurrencies",
+              "cryptocurrency-icons",
+              "icons",
+              "iconset"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         },
@@ -176,12 +305,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Icons made for Bitcoin applications, free to use.",
+            "homepage": "https://bitcoinicons.com/",
             "id": 306581433,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-22T11:03:33Z",
+            "open_issues": 13,
             "owner": "BitcoinDesign",
             "repo": "Bitcoin-Icons",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "bitcoin",
+              "design",
+              "icons"
+            ]
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
         }
@@ -190,15 +328,32 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:27:32.861Z",
+    "last_updated": "2026-08-29T04:28:51.244Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Web Font Icons",
+      "homepage": null,
       "id": 50588965,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-11T07:21:31Z",
+      "open_issues": 2,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1557
+      "stars": 1557,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "hacktoberfest",
+        "icon-font",
+        "icon-fonts",
+        "icon-packs",
+        "icons",
+        "svg-icons",
+        "weather-icons",
+        "web-fonts",
+        "web-icons"
+      ]
     },
     "original_repository_sha": "d6610309f274983d59e83784942ddffeaf17a1da",
     "enhanced_repository": "enhansome/enhansome-icons",
