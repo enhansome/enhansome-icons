@@ -40,7 +40,7 @@
             "open_issues": 108,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21529,
+            "stars": 21533,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -101,10 +101,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1112,
+            "open_issues": 1113,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11300,
+            "stars": 11301,
             "topics": [
               "android",
               "bootstrap",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T15:40:09.743Z",
+    "last_updated": "2026-08-30T15:23:14.006Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
