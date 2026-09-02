@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23773,
+            "stars": 23775,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -37,10 +37,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-08-31T11:12:08Z",
-            "open_issues": 107,
+            "open_issues": 108,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21556,
+            "stars": 21568,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15381,
+            "stars": 15383,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -104,7 +104,7 @@
             "open_issues": 1113,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11302,
+            "stars": 11303,
             "topics": [
               "android",
               "bootstrap",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5017,
+            "stars": 5014,
             "topics": [
               "evil-icons",
               "icons",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T15:29:22.899Z",
+    "last_updated": "2026-09-02T15:09:01.893Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
