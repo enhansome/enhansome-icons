@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23775,
+            "stars": 23777,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -36,11 +36,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-31T11:12:08Z",
+            "last_commit": "2026-09-03T00:27:49Z",
             "open_issues": 108,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21568,
+            "stars": 21582,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -101,10 +101,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1113,
+            "open_issues": 1114,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11303,
+            "stars": 11304,
             "topics": [
               "android",
               "bootstrap",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T15:09:01.893Z",
+    "last_updated": "2026-09-03T15:03:23.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
