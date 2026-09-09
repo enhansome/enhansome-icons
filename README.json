@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23784,
+            "stars": 23789,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -36,11 +36,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T00:27:49Z",
+            "last_commit": "2026-09-08T22:29:22Z",
             "open_issues": 106,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21627,
+            "stars": 21640,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15388,
+            "stars": 15389,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -104,7 +104,7 @@
             "open_issues": 1116,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11308,
+            "stars": 11307,
             "topics": [
               "android",
               "bootstrap",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5014,
+            "stars": 5015,
             "topics": [
               "evil-icons",
               "icons",
@@ -243,7 +243,7 @@
             "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2750,
+            "stars": 2751,
             "topics": [
               "altcoin",
               "altcoins",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T15:11:21.543Z",
+    "last_updated": "2026-09-09T15:11:00.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -340,7 +340,7 @@
       "open_issues": 3,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1559,
+      "stars": 1560,
       "topics": [
         "awesome",
         "awesome-list",
