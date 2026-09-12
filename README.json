@@ -37,10 +37,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-11T06:47:35Z",
-            "open_issues": 106,
+            "open_issues": 105,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21657,
+            "stars": 21665,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15391,
+            "stars": 15393,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T15:05:27.087Z",
+    "last_updated": "2026-09-12T14:13:33.236Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
