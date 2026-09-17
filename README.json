@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23804,
+            "stars": 23807,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -36,11 +36,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T06:47:35Z",
-            "open_issues": 110,
+            "last_commit": "2026-09-16T23:47:56Z",
+            "open_issues": 111,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21695,
+            "stars": 21703,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15396,
+            "stars": 15397,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -104,7 +104,7 @@
             "open_issues": 1120,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11310,
+            "stars": 11311,
             "topics": [
               "android",
               "bootstrap",
@@ -162,7 +162,7 @@
             "open_issues": 47,
             "owner": "icons8",
             "repo": "line-awesome",
-            "stars": 1308,
+            "stars": 1309,
             "topics": [
               "icon-pack",
               "icons"
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T15:26:52.629Z",
+    "last_updated": "2026-09-17T15:34:26.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -336,11 +336,11 @@
       "id": 50588965,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-08T04:58:38Z",
-      "open_issues": 4,
+      "last_commit": "2026-09-17T07:48:56Z",
+      "open_issues": 2,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1561,
+      "stars": 1563,
       "topics": [
         "awesome",
         "awesome-list",
@@ -355,7 +355,7 @@
         "web-icons"
       ]
     },
-    "original_repository_sha": "53a082ad4779265128e0489a17d08ea20a383760",
+    "original_repository_sha": "b33f03ab13bd80eb58e8b16336ecbf0545d4a5e7",
     "enhanced_repository": "enhansome/enhansome-icons",
     "enhanced_repository_description": null,
     "title": "Awesome Web Icons with stars"
