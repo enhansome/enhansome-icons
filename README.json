@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23813,
+            "stars": 23814,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -31,16 +31,16 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A set of over 6100 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
+            "description": "A set of over 6200 free MIT-licensed high-quality SVG icons for you to use in your web projects.",
             "homepage": "https://tabler.io/icons",
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:36:43Z",
+            "last_commit": "2026-09-22T13:51:16Z",
             "open_issues": 93,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21748,
+            "stars": 21759,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5015,
+            "stars": 5016,
             "topics": [
               "evil-icons",
               "icons",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T17:07:05.144Z",
+    "last_updated": "2026-09-22T15:33:04.335Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
