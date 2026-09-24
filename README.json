@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23816,
+            "stars": 23818,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -40,7 +40,7 @@
             "open_issues": 93,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21777,
+            "stars": 21783,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -243,7 +243,7 @@
             "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2752,
+            "stars": 2753,
             "topics": [
               "altcoin",
               "altcoins",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T15:28:40.917Z",
+    "last_updated": "2026-09-24T15:51:08.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -337,7 +337,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-17T07:48:56Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
       "stars": 1563,
