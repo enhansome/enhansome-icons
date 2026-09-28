@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23827,
+            "stars": 23831,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -36,11 +36,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T13:51:16Z",
-            "open_issues": 93,
+            "last_commit": "2026-09-28T13:02:15Z",
+            "open_issues": 90,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21797,
+            "stars": 21802,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15401,
+            "stars": 15402,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -104,7 +104,7 @@
             "open_issues": 1122,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11317,
+            "stars": 11315,
             "topics": [
               "android",
               "bootstrap",
@@ -243,7 +243,7 @@
             "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2753,
+            "stars": 2754,
             "topics": [
               "altcoin",
               "altcoins",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T15:41:54.533Z",
+    "last_updated": "2026-09-28T18:38:27.396Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -340,7 +340,7 @@
       "open_issues": 5,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1564,
+      "stars": 1565,
       "topics": [
         "awesome",
         "awesome-list",
