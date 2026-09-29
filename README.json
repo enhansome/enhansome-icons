@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23831,
+            "stars": 23834,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -37,10 +37,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-28T13:02:15Z",
-            "open_issues": 90,
+            "open_issues": 89,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21802,
+            "stars": 21809,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15402,
+            "stars": 15401,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -158,11 +158,11 @@
             "id": 82809389,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-06-30T17:26:16Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-29T07:32:07Z",
+            "open_issues": 48,
             "owner": "icons8",
             "repo": "line-awesome",
-            "stars": 1311,
+            "stars": 1312,
             "topics": [
               "icon-pack",
               "icons"
@@ -243,7 +243,7 @@
             "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2754,
+            "stars": 2755,
             "topics": [
               "altcoin",
               "altcoins",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:38:27.396Z",
+    "last_updated": "2026-09-29T16:55:18.473Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
