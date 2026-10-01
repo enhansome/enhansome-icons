@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23836,
+            "stars": 23842,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -40,7 +40,7 @@
             "open_issues": 89,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21822,
+            "stars": 21839,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -104,7 +104,7 @@
             "open_issues": 1122,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11314,
+            "stars": 11315,
             "topics": [
               "android",
               "bootstrap",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5016,
+            "stars": 5014,
             "topics": [
               "evil-icons",
               "icons",
@@ -243,7 +243,7 @@
             "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2755,
+            "stars": 2756,
             "topics": [
               "altcoin",
               "altcoins",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T16:51:42.532Z",
+    "last_updated": "2026-10-01T17:25:02.653Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
