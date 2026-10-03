@@ -40,7 +40,7 @@
             "open_issues": 88,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 21882,
+            "stars": 21888,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:50:58.609Z",
+    "last_updated": "2026-10-03T15:09:55.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
