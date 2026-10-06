@@ -2,7 +2,7 @@
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,362 | 🐛 106 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 515,547 | 🐛 106 | 📅 2026-09-02 list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -50,11 +50,11 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 <!--lint disable awesome-list-item-->
 
-* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 21,917 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-05 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,399 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
+* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 21,922 | 🐛 80 | 🌐 JavaScript | 📅 2026-10-05 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,398 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
 * [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,317 | 🐛 1,123 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
 * [Evil Icons](https://github.com/evil-icons/evil-icons) ⭐ 5,014 | 🐛 26 | 🌐 JavaScript | 📅 2021-10-19 - Free ‘plug and play’ set of SVG icons designed specifically for web projects
-* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,314 | 🐛 48 | 📅 2026-09-29 - Swap Font Awesome for modern line icons in one line of code.
+* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,314 | 🐛 48 | 📅 2026-10-06 - Swap Font Awesome for modern line icons in one line of code.
 * [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 420 | 🐛 24 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
 * [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2024-05-22 - DevUI font icons.
 * [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
@@ -117,7 +117,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 * [fontello](https://fontello.com/) - Icon fonts generator.
 * [fontglyph](https://fontglyph.com/) - Converts a library of your SVG and PNG to a web optimized Icon font, entirely in-browser.
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-* [svgtofont](https://github.com/jaywcjlove/svgtofont) ⭐ 728 | 🐛 53 | 🌐 TypeScript | 📅 2026-06-30 - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+* [svgtofont](https://github.com/jaywcjlove/svgtofont) ⭐ 728 | 🐛 54 | 🌐 TypeScript | 📅 2026-06-30 - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 * [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 * [Unicon](https://unicon.webrenew.com/) - Browse 20,000+ icons and export as React, Vue, Svelte, or SVG.
 * [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
