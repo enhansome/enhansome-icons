@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23861,
+            "stars": 23863,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -40,7 +40,7 @@
             "open_issues": 81,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22018,
+            "stars": 22085,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -104,7 +104,7 @@
             "open_issues": 1123,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11317,
+            "stars": 11316,
             "topics": [
               "android",
               "bootstrap",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T17:51:27.339Z",
+    "last_updated": "2026-10-08T17:55:06.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -340,7 +340,7 @@
       "open_issues": 5,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1569,
+      "stars": 1570,
       "topics": [
         "awesome",
         "awesome-list",
