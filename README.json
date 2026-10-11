@@ -40,7 +40,7 @@
             "open_issues": 82,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22189,
+            "stars": 22214,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -101,7 +101,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1123,
+            "open_issues": 1124,
             "owner": "Templarian",
             "repo": "MaterialDesign",
             "stars": 11317,
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T16:16:36.998Z",
+    "last_updated": "2026-10-11T16:40:41.155Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -337,7 +337,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-09-17T07:48:56Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
       "stars": 1571,
