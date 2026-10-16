@@ -2,7 +2,7 @@
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,340 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 519,835 | 🐛 105 | 📅 2026-09-02 list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -36,7 +36,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Generic
 
-* [Heroicons](https://github.com/tailwindlabs/heroicons) ⭐ 23,867 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12 - A set of free MIT-licensed high-quality SVG icons for UI development.
+* [Heroicons](https://github.com/tailwindlabs/heroicons) ⭐ 23,870 | 🐛 4 | 🌐 JavaScript | 📅 2026-05-12 - A set of free MIT-licensed high-quality SVG icons for UI development.
 * [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 * [thesvg](https://thesvg.org/) - 5,600+ free SVG icons for brands, AWS, Azure, and GCP. React, Vue, Svelte components, CLI, and CDN.
 * [Devicon](https://devicon.dev) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
@@ -50,11 +50,11 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 <!--lint disable awesome-list-item-->
 
-* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 22,325 | 🐛 81 | 🌐 JavaScript | 📅 2026-10-10 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 22,339 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-15 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
 * [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,401 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
-* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,319 | 🐛 1,124 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
+* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,317 | 🐛 1,124 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
 * [Evil Icons](https://github.com/evil-icons/evil-icons) ⭐ 5,014 | 🐛 26 | 🌐 JavaScript | 📅 2021-10-19 - Free ‘plug and play’ set of SVG icons designed specifically for web projects
-* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,314 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-15 - Swap Font Awesome for modern line icons in one line of code.
+* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,316 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-16 - Swap Font Awesome for modern line icons in one line of code.
 * [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 421 | 🐛 24 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
 * [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2024-05-22 - DevUI font icons.
 * [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
@@ -128,4 +128,4 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
