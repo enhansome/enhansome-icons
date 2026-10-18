@@ -2,7 +2,7 @@
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,282 | 🐛 105 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 520,784 | 🐛 105 | 📅 2026-09-02 list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -50,12 +50,12 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 <!--lint disable awesome-list-item-->
 
-* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 22,346 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-15 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,401 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
-* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,316 | 🐛 1,124 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
+* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 22,355 | 🐛 83 | 🌐 JavaScript | 📅 2026-10-15 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,400 | 🐛 34 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
+* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,317 | 🐛 1,124 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
 * [Evil Icons](https://github.com/evil-icons/evil-icons) ⭐ 5,014 | 🐛 26 | 🌐 JavaScript | 📅 2021-10-19 - Free ‘plug and play’ set of SVG icons designed specifically for web projects
-* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,316 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-16 - Swap Font Awesome for modern line icons in one line of code.
-* [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 421 | 🐛 24 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
+* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,317 | 🐛 45 | 🌐 JavaScript | 📅 2026-10-16 - Swap Font Awesome for modern line icons in one line of code.
+* [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 422 | 🐛 24 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
 * [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2024-05-22 - DevUI font icons.
 * [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
 * [Ionicons](https://ionic.io/ionicons) - The premium icon font for Ionic Framework.
@@ -107,7 +107,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Merchants
 
-* [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) ⭐ 2,756 | 🐛 101 | 🌐 JavaScript | 📅 2024-08-19 - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
+* [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) ⭐ 2,757 | 🐛 101 | 🌐 JavaScript | 📅 2024-08-19 - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
 * [CMC Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons) ⭐ 250 | 🐛 5 | 🌐 PHP | 📅 2025-05-29 - all the cryptocurrency icons available on coinmarketcap.
 * [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) ⭐ 125 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-22 - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 * [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
@@ -128,4 +128,4 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._

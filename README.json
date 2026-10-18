@@ -40,7 +40,7 @@
             "open_issues": 83,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22346,
+            "stars": 22355,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 34,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15401,
+            "stars": 15400,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -104,7 +104,7 @@
             "open_issues": 1124,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11316,
+            "stars": 11317,
             "topics": [
               "android",
               "bootstrap",
@@ -162,7 +162,7 @@
             "open_issues": 45,
             "owner": "icons8",
             "repo": "line-awesome",
-            "stars": 1316,
+            "stars": 1317,
             "topics": [
               "icon-pack",
               "icons"
@@ -186,7 +186,7 @@
             "open_issues": 24,
             "owner": "artcoholic",
             "repo": "akar-icons",
-            "stars": 421,
+            "stars": 422,
             "topics": [
               "icon-pack",
               "icons",
@@ -243,7 +243,7 @@
             "open_issues": 101,
             "owner": "spothq",
             "repo": "cryptocurrency-icons",
-            "stars": 2756,
+            "stars": 2757,
             "topics": [
               "altcoin",
               "altcoins",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T14:16:51.446Z",
+    "last_updated": "2026-10-18T14:40:21.541Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
