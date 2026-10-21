@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23872,
+            "stars": 23874,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -36,11 +36,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-15T22:56:56Z",
-            "open_issues": 84,
+            "last_commit": "2026-10-21T00:33:53Z",
+            "open_issues": 85,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22387,
+            "stars": 22404,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15403,
+            "stars": 15401,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -101,7 +101,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1125,
+            "open_issues": 1126,
             "owner": "Templarian",
             "repo": "MaterialDesign",
             "stars": 11318,
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5014,
+            "stars": 5013,
             "topics": [
               "evil-icons",
               "icons",
@@ -158,7 +158,7 @@
             "id": 82809389,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T09:39:30Z",
+            "last_commit": "2026-10-21T08:20:41Z",
             "open_issues": 28,
             "owner": "icons8",
             "repo": "line-awesome",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T15:41:21.862Z",
+    "last_updated": "2026-10-21T15:59:35.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -340,7 +340,7 @@
       "open_issues": 7,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1578,
+      "stars": 1579,
       "topics": [
         "awesome",
         "awesome-list",
