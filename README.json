@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23878,
+            "stars": 23881,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -40,7 +40,7 @@
             "open_issues": 92,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22441,
+            "stars": 22450,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15403,
+            "stars": 15404,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -104,7 +104,7 @@
             "open_issues": 1129,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11316,
+            "stars": 11320,
             "topics": [
               "android",
               "bootstrap",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5013,
+            "stars": 5014,
             "topics": [
               "evil-icons",
               "icons",
@@ -158,8 +158,8 @@
             "id": 82809389,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-21T08:20:41Z",
-            "open_issues": 28,
+            "last_commit": "2026-10-25T10:47:49Z",
+            "open_issues": 29,
             "owner": "icons8",
             "repo": "line-awesome",
             "stars": 1318,
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T14:39:34.681Z",
+    "last_updated": "2026-10-25T14:58:44.075Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
@@ -340,7 +340,7 @@
       "open_issues": 8,
       "owner": "vkarampinis",
       "repo": "awesome-icons",
-      "stars": 1580,
+      "stars": 1581,
       "topics": [
         "awesome",
         "awesome-list",
