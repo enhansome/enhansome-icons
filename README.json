@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "tailwindlabs",
             "repo": "heroicons",
-            "stars": 23889,
+            "stars": 23891,
             "topics": []
           },
           "first_seen": "2026-08-28T21:27:32.861Z"
@@ -37,10 +37,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-10-29T15:40:55Z",
-            "open_issues": 82,
+            "open_issues": 85,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22497,
+            "stars": 22510,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -76,7 +76,7 @@
             "open_issues": 35,
             "owner": "edent",
             "repo": "SuperTinyIcons",
-            "stars": 15405,
+            "stars": 15404,
             "topics": [
               "hacktoberfest",
               "logo",
@@ -101,10 +101,10 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1130,
+            "open_issues": 1129,
             "owner": "Templarian",
             "repo": "MaterialDesign",
-            "stars": 11318,
+            "stars": 11317,
             "topics": [
               "android",
               "bootstrap",
@@ -134,7 +134,7 @@
             "open_issues": 26,
             "owner": "evil-icons",
             "repo": "evil-icons",
-            "stars": 5011,
+            "stars": 5010,
             "topics": [
               "evil-icons",
               "icons",
@@ -158,8 +158,8 @@
             "id": 82809389,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T01:55:28Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-30T06:04:36Z",
+            "open_issues": 33,
             "owner": "icons8",
             "repo": "line-awesome",
             "stars": 1317,
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T17:27:59.391Z",
+    "last_updated": "2026-10-30T17:03:11.664Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
