@@ -2,7 +2,7 @@
 
 > A curated list of awesome Web (font, svg, whatever) Icons.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,343 | 🐛 103 | 📅 2026-09-02 list thing.
+Inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 536,809 | 🐛 104 | 📅 2026-09-02 list thing.
 
 You can follow me on [Twitter](https://twitter.com/vkarampinis).
 
@@ -36,7 +36,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ## Generic
 
-* [Heroicons](https://github.com/tailwindlabs/heroicons) ⭐ 23,905 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-12 - A set of free MIT-licensed high-quality SVG icons for UI development.
+* [Heroicons](https://github.com/tailwindlabs/heroicons) ⭐ 23,910 | 🐛 6 | 🌐 JavaScript | 📅 2026-05-12 - A set of free MIT-licensed high-quality SVG icons for UI development.
 * [Simple icons](https://simpleicons.org/) - Over 1000 Free SVG icons for popular brands.
 * [thesvg](https://thesvg.org/) - 5,600+ free SVG icons for brands, AWS, Azure, and GCP. React, Vue, Svelte components, CLI, and CDN.
 * [Devicon](https://devicon.dev) - A set of icons representing programming languages, designing & development tools. You can use it as a font or directly copy/paste the svg code into your project.
@@ -50,11 +50,11 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 <!--lint disable awesome-list-item-->
 
-* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 22,633 | 🐛 94 | 🌐 JavaScript | 📅 2026-11-13 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
-* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,410 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
-* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,316 | 🐛 1,141 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
+* [Tabler Icons](https://github.com/tabler/tabler-icons) ⭐ 22,660 | 🐛 97 | 🌐 JavaScript | 📅 2026-11-14 - A set of over 1500 free MIT-licensed high-quality SVG icons for you to use in your web projects.
+* [SuperTinyIcons](https://github.com/edent/SuperTinyIcons) ⭐ 15,411 | 🐛 35 | 🌐 Python | 📅 2026-05-18 - Miniscule SVG versions of website and app logos, under 1KB each.
+* [Material Design Icons](https://github.com/Templarian/MaterialDesign) ⭐ 11,317 | 🐛 1,141 | 📅 2025-01-20 - 6200+ Material Design Icons from the Community
 * [Evil Icons](https://github.com/evil-icons/evil-icons) ⭐ 5,008 | 🐛 26 | 🌐 JavaScript | 📅 2021-10-19 - Free ‘plug and play’ set of SVG icons designed specifically for web projects
-* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,318 | 🐛 0 | 🌐 JavaScript | 📅 2026-11-05 - Swap Font Awesome for modern line icons in one line of code.
+* [Icons8 Line Awesome](https://github.com/icons8/line-awesome) ⭐ 1,318 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-14 - Swap Font Awesome for modern line icons in one line of code.
 * [Akar Icons](https://github.com/artcoholic/akar-icons) ⭐ 422 | 🐛 24 | 🌐 JavaScript | 📅 2024-03-21 - Perfectly rounded icon library made for designers and developers as React components.
 * [DevUI Icons, by Huawei Cloud](https://github.com/DevCloudFE/devui-icons) ⭐ 19 | 🐛 1 | 🌐 HTML | 📅 2024-05-22 - DevUI font icons.
 * [IconSweets2](https://www.designbombs.com/iconsweets2/) - Is a huge set containing over 1,000 custom designed icons. IconSweets 2 will quench your icon thirst for all your iPhone, iPad & Android apps or new web projects.
@@ -109,7 +109,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 ## Merchants
 
 * [Cryptocurrency Icons](https://github.com/spothq/cryptocurrency-icons) ⭐ 2,756 | 🐛 101 | 🌐 JavaScript | 📅 2024-08-19 - over 6000 crypto currencies icons in 4 styles and a range of sizes. Completely free.
-* [CMC Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons) ⭐ 251 | 🐛 4 | 🌐 PHP | 📅 2026-11-11 - all the cryptocurrency icons available on coinmarketcap.
+* [CMC Cryptocurrency Icons](https://github.com/ErikThiart/cryptocurrency-icons) ⭐ 250 | 🐛 4 | 🌐 PHP | 📅 2026-11-11 - all the cryptocurrency icons available on coinmarketcap.
 * [Bitcoin-Icons](https://github.com/BitcoinDesign/Bitcoin-Icons) ⭐ 125 | 🐛 13 | 🌐 JavaScript | 📅 2026-04-22 - Bitcoin Icons is an open-source/open-design set of icons made for Bitcoin centric applications.
 * [PaymentFont](http://paymentfont.io/) - A sleek webfont containing 95 icons of all main payment operators and methods.
 
@@ -118,7 +118,7 @@ Please read the [contribution guidelines](contributing.md) before contributing
 * [fontello](https://fontello.com/) - Icon fonts generator.
 * [fontglyph](https://fontglyph.com/) - Converts a library of your SVG and PNG to a web optimized Icon font, entirely in-browser.
 * [svg-icon](https://leungwensen.github.io/svg-icon/) - Select as many SVG icons as you need, and download as an SVG symbols sprite file.
-* [svgtofont](https://github.com/jaywcjlove/svgtofont) ⭐ 726 | 🐛 54 | 🌐 TypeScript | 📅 2026-06-30 - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
+* [svgtofont](https://github.com/jaywcjlove/svgtofont) ⭐ 726 | 🐛 55 | 🌐 TypeScript | 📅 2026-06-30 - Read a set of SVG icons and ouput a TTF/EOT/WOFF/WOFF2/SVG font.
 * [Orion icon library](https://www.orioniconlibrary.com/) - Generate icon fonts or download icons in multiple formats.
 * [Unicon](https://unicon.webrenew.com/) - Browse 20,000+ icons and export as React, Vue, Svelte, or SVG.
 * [Hugeicons Icon Font Generator](https://hugeicons.com/icon-font-generator/) - Generate icon fonts from 46,000+ icons (with license) or use 4,600+ free icons and custom uploaded icons.
@@ -129,4 +129,4 @@ Please read the [contribution guidelines](contributing.md) before contributing
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
