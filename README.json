@@ -36,11 +36,11 @@
             "id": 243546335,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-20T23:28:25Z",
+            "last_commit": "2026-11-23T22:24:07Z",
             "open_issues": 86,
             "owner": "tabler",
             "repo": "tabler-icons",
-            "stars": 22755,
+            "stars": 22773,
             "topics": [
               "bootstrap-icons",
               "components",
@@ -101,7 +101,7 @@
             "language": null,
             "license": "NOASSERTION",
             "last_commit": "2025-01-20T01:57:40Z",
-            "open_issues": 1144,
+            "open_issues": 1145,
             "owner": "Templarian",
             "repo": "MaterialDesign",
             "stars": 11316,
@@ -186,7 +186,7 @@
             "open_issues": 24,
             "owner": "artcoholic",
             "repo": "akar-icons",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "icon-pack",
               "icons",
@@ -328,7 +328,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T18:34:47.077Z",
+    "last_updated": "2026-11-23T22:44:54.493Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Web Font Icons",
